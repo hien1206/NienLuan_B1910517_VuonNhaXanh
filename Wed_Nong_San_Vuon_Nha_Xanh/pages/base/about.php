@@ -5,17 +5,17 @@
             <div class="row">
                 <div class="col" style="--w-md:4;">
                     <div class="about__image--item">
-                        <img class="w-100 h-100 d-block object-fit-cover" src="./assets/images/banner/about1.jpg" alt="img about">
+                        <img class="w-100 h-100 d-block object-fit-cover" src="./assets/images/banner/pexels-lauren-heaton-76106296-8633675.jpg" alt="img about">
                     </div>
                 </div>
                 <div class="col" style="--w-md:4;">
                     <div class="about__image--item">
-                        <img class="w-100 h-100 d-block object-fit-cover" src="./assets/images/banner/about2.jpg" alt="img about">
+                        <img class="w-100 h-100 d-block object-fit-cover" src="./assets/images/banner/pexels-polina-tankilevitch-3872406.jpg" alt="img about">
                     </div>
                 </div>
                 <div class="col" style="--w-md:4;">
                     <div class="about__image--item">
-                        <img class="w-100 h-100 d-block object-fit-cover" src="./assets/images/banner/about3.jpg" alt="img about">
+                        <img class="w-100 h-100 d-block object-fit-cover" src="./assets/images/banner/pexels-tanphuc-2955794.jpg" alt="img about">
                     </div>
                 </div>
             </div>
@@ -24,8 +24,7 @@
             <div class="about__container">
                 <h1 class="about__heading h1">Giới thiệu về cửa hàng Vườn Nhà Xanh</h1>
                 <p class="about__context h4">
-    Vườn Nhà Xanh là điểm đến hàng đầu cho các game thủ đam mê công nghệ. Chúng tôi chuyên cung cấp các thiết bị chơi game tối tân, từ chuột, bàn phím cơ, tai nghe chất lượng cao, đến các phụ kiện độc đáo, giúp bạn nâng cao trải nghiệm chơi game lên một tầm cao mới. Với cam kết về chất lượng và dịch vụ, NetGen luôn đảm bảo rằng mỗi sản phẩm đều được kiểm tra kỹ lưỡng trước khi đến tay khách hàng. Chúng tôi không chỉ bán sản phẩm, mà còn mang đến một cộng đồng gắn kết, nơi bạn có thể chia sẻ niềm đam mê và khám phá những xu hướng mới nhất trong thế giới gaming. Hãy đến với NetGen để trải nghiệm sự khác biệt và tìm thấy thiết bị hoàn hảo cho cuộc phiêu lưu game của bạn!
-</p>
+                Chào mừng bạn đến với Vườn Nhà Xanh, nơi mang đến cho bạn không gian xanh tươi mát và những sản phẩm thiên nhiên chất lượng nhất. Được thành lập với sứ mệnh đem lại những sản phẩm cây xanh, hoa cảnh và vật dụng trang trí thiên nhiên, chúng tôi tin rằng cây cối không chỉ làm đẹp cho không gian sống mà còn mang lại nhiều lợi ích cho sức khỏe và tinh thần. Tại Vườn Nhà Xanh, bạn sẽ tìm thấy đa dạng các loại cây cảnh trong nhà, cây cảnh ngoài trời, hoa tươi theo mùa cùng nhiều vật dụng trang trí như chậu cây và giá treo. Bên cạnh đó, chúng tôi còn cung cấp dịch vụ tư vấn chăm sóc cây cối để đảm bảo sức khỏe và vẻ đẹp cho các sản phẩm của bạn. Với phương châm "Chất lượng là trên hết", Vườn Nhà Xanh cam kết mang đến những sản phẩm tốt nhất với giá cả hợp lý, luôn lắng nghe và phục vụ khách hàng một cách tận tâm nhất.</p>
             </div>
         </div>
     </div>

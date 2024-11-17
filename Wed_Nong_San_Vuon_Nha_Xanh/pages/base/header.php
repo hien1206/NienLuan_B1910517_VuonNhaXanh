@@ -226,7 +226,7 @@ p + p {
                             <a class="nav__anchor h7" href="index.php?page=about">Giới thiệu</a>
                         </li>
                         <li class="nav__item">
-                            <a class="nav__anchor h7" href="index.php?page=blog">Blog</a>
+                            <a class="nav__anchor h7" href="index.php?page=blog">Món ngon</a>
                         </li>
                         <li class="nav__item">
                             <a class="nav__anchor h7" href="index.php?page=contact">Liên hệ</a>
