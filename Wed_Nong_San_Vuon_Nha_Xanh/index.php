@@ -41,7 +41,6 @@ require_once 'config-paypal.php';
   <script src="./assets/js/message.js"></script>
   <script src="./assets/js/validator.js"></script>
 <!--Start of Fchat.vn--><script type="text/javascript" src="https://cdn.fchat.vn/assets/embed/webchat.js?id=6738c4e882524a2d87528ff7" async="async"></script><!--End of Fchat.vn-->
-
 <body>
   <div id="wrapper">
     <?php

@@ -149,7 +149,7 @@ if (isset($_SESSION['account_id'])) {
                                 <span class="d-block">Thanh toán khi nhận hàng</span>
                             </label>
                         </div>
-                        <!-- <div class="payment__item d-flex align-center">
+                        <div class="payment__item d-flex align-center">
                             <input class="payment__radio" type="radio" name="order_type" id="payment_momo_qr" value="2" />
                             <img class="payment__icon" src="./assets/images/payment/qrcode.png" alt="QR CODE" style="width: 62px;">
                             <label class="payment__label w-100 h-100" for="payment_momo_qr">
@@ -165,15 +165,15 @@ if (isset($_SESSION['account_id'])) {
                                 <span class="d-block">Thanh toán chuyển khoản MOMO</span>
                             </label>
                         </div>
-                        <div class="payment__item d-flex align-center">
+                        <!-- <div class="payment__item d-flex align-center">
                             <input class="payment__radio" type="radio" name="order_type" id="payment_vnp" value="4" />
                             <img class="payment__icon" src="./assets/images/payment/vnpay.png" alt="QR CODE" style="width: 62px;">
                             <label class="payment__label w-100 h-100" for="payment_vnp">
                                 <span class="d-block">VNPAY</span>
                                 <span class="d-block">Thanh toán chuyển khoản VNPAY</span>
                             </label>
-                        </div>
-                        <div type="submit" name="redirect" id="paypal-button-container"></div> -->
+                        </div> -->
+                        <div type="submit" name="redirect" id="paypal-button-container"></div>
                     </div>
                 </div>
             </div>
